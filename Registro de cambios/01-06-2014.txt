@@ -1,0 +1,5 @@
+Cambios hecho el 1/06/2014
+
+Creada la función de listar las prácticas subidas por cada uno.
+
+Agregado campo de cargo del empleador.

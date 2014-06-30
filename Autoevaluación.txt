@@ -1,0 +1,4 @@
+Consistencias entradas v/s requerimientos funcionales
+consistencias salidas v/s requerimientos funcionales
+consistencias salidas v/s entradas
+requerimientos funcionales v/s casos de uso
